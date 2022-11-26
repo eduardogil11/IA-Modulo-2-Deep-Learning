@@ -3,18 +3,13 @@ Repositorio Módulo 2 Deep Learning
 
 # Implementación de un modelo de deep learning
 
-* Primero 
-* Descargar los archvios de linear_reg_vgsales.py y el vgsales.csv que se encuentran en la carpeta de "linear_reg_mano"
-* Ponerlos en la misma carpeta y correr el programa.
-* Si queremos incrementar las epochs en la línea 68 se puede modificar, viene con 100 epochs.
+* Para entrenar el modelo podemos descargar la carpeta "Entrenar_Modelo" dentro de la carpeta esta el dataset llamado "pokemon.csv" y el Jupyter Notebook llamado "Clasificador_Fuego_y_Agua_Pokémon.ipynb".
+* Para poder correr el Notebook necesitamos un zip de las imágenes de los Pokémon aquí esta el link para descargarlo.
+* Posteriormente corremos el Notebook como se indica dentro del Notebook.
+* O podemos entrar directo al Notebook desde github y ver los resultados.
 
-# Linear Regression con Framework
+* Para probar el modelo podemos descargar la carpeta "Probar_Modelo" dentro de la carpeta esta el modelo generado llamado "modelo.h5", el Jupyter Notebook llamado "Prueba_modelo_generado.ipynb" y una carpeta llamada "Images" que tiene imágenes de Pokémon sacadas de internet.
+* Posteriormente corremos el Notebook como se indica dentro del Notebook.
+* O podemos entrar directo al Notebook desde github y ver los resultados.
 
-* Descargar los archivos de linear_reg_framework.py y el vgsales.csv que se encuentran en la carpeta de "linear_reg_framework"
-* Ponerlos en la misma carpeta y correr el programa.
-* Nos mostrara la gráfica y sus predicciones.
-
-# Análisis del modelo
-* Podemos entrar a la carpeta de analisis que se encuentra en el repositorio que se llama "analisis".
-* Ahí encontraremos el archivo del análisis en pdf "Análisis Video Games Sales Model.pdf" y el nootbook "Análisis Video Game Model.ipynb".
-* También podemos abrir el archivo dentro del repositorio y de igual forma visualizarlo.
+### Video de la explicación 
